@@ -196,7 +196,7 @@ graph LR
 ## 🌍 Connect & Collaborate
 
 <p align="center">
-  <a href="www.linkedin.com/in/aman-shah-392616373/">
+  <a href="https://www.linkedin.com/in/aman-shah-392616373/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:iamanshah21@.com">
