@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=6,11,20&text=Aman%20Shah&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20AI%20Storyteller&descSize=18&descAlignY=58" width="100%" alt="Aman Shah header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:F2A65A,50:D66BA0,100:9B5DE5&text=Aman%20Shah&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%2FML%20Engineer%20%7C%20Data%20Scientist%20%7C%20AI%20Storyteller&descSize=18&descAlignY=58" width="100%" alt="Aman Shah header"/>
 
 <a href="https://github.com/amanshah362">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=900&color=00D4FF&center=true&vCenter=true&width=800&height=50&lines=Turning+chaos+into+clarity+with+data;Building+intelligent+systems+that+matter;Machine+Learning+%7C+Deep+Learning+%7C+AI;Data+Driven+%7C+Insight+Focused+%7C+Impact+Oriented" alt="Typing animation"/>
@@ -302,8 +302,8 @@ I'm always open to conversations about **data, machine learning, and AI**, wheth
 
 ### 🚀 *From Data to Insights, From Insights to Impact*
 
-<sub>**Aman Shah** &nbsp;•&nbsp; Data Scientist</sub>
+<sub>**Aman Shah** &nbsp;•&nbsp; AI/ML Engineer</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=6,11,20&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:F2A65A,50:D66BA0,100:9B5DE5&section=footer" width="100%" alt="Footer"/>
 
 </div>
