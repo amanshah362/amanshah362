@@ -156,24 +156,24 @@ Tackling complex challenges systematically
 <tr>
 <td width="50%" valign="top">
 
-### ❤️ Heart Disease Prediction
+### 🧬 Cancer Death Rate Prediction
 
-<img src="https://img.shields.io/badge/Accuracy-92%25-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/Random_Forest-0969DA?style=flat-square"/> <img src="https://img.shields.io/badge/FastAPI-009485?style=flat-square"/>
+<img src="https://img.shields.io/badge/R²_Score-0.678-2EA043?style=flat-square"/> <img src="https://img.shields.io/badge/XGBoost-0969DA?style=flat-square"/> <img src="https://img.shields.io/badge/Optuna-8250DF?style=flat-square"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square"/>
 
-End-to-end ML pipeline for early heart disease detection from patient health metrics, deployed with FastAPI.
+End-to-end regression pipeline predicting county-level cancer mortality across 3,000+ US counties, using a leakage-safe preprocessing pipeline and XGBoost tuned with Optuna.
 
-[🔗 Live Demo](#) &nbsp;•&nbsp; [📂 Source Code](#)
+[📂 Source Code](https://github.com/amanshah362/Cancer-Regression)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎬 Movie Recommendation System
 
-<img src="https://img.shields.io/badge/Precision-88%25-0969DA?style=flat-square"/> <img src="https://img.shields.io/badge/Hybrid-E5484D?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-8250DF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Content--Based-E5484D?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-8250DF?style=flat-square"/> <img src="https://img.shields.io/badge/Cosine_Similarity-0969DA?style=flat-square"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square"/>
 
-Hybrid engine combining content-based and collaborative filtering, with NLP on movie descriptions.
+Content-based movie recommendation engine that uses NLP on movie metadata and cosine similarity to suggest similar movies.
 
-[🔗 Live Demo](#) &nbsp;•&nbsp; [📂 Source Code](#)
+[📂 Source Code](https://github.com/amanshah362/Movie-Recommendation-System)
 
 </td>
 </tr>
